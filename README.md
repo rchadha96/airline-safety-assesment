@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Airline Safety Assesment
+Project Goal: To assess airline safety and generate risk score based on track record using R  
 
-You can use the [editor on GitHub](https://github.com/rchadha96/airline-safety-assesment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The case study was done to assess the safety of airlines based on its track record, using the airline safety data hosted by FiveThirtyEight, which provides the safety records of major commercial airlines, over a span of 30 years. The context of this analysis is the outcome of certain academic studies that high-profile crashes can shift passenger demand away from the airlines involved in the disasters. The dataset divides the 30-year period into two halves and gives information about the number of crashes, fatal accidents and fatalities occurred over these years along with available seat kilometers (ASKs) of 56 different airlines. The prime objective of the case study was to check whether there was a relation between the crash rates of first time period and that of the second which would imply that the risk is persistent and is predictable based on its crash history.
 
 ```markdown
 Syntax highlighted code block
