@@ -14,12 +14,14 @@ The prime objective of the case study was to check whether there was a relation 
 Based on the dataset obtained we have categorized the airline into private and government airlines.
 
 ```r
-  ir <- read_csv("AirlineSafety-SAS.csv")
+  air <- read_csv("AirlineSafety-SAS.csv")
   # Adding Type of airline.
   air <- air %>%
   mutate(type=ifelse(grepl("*", airline, fixed = TRUE),"Government","Private"))
 ```
-  
+### Data Visualization:
+In-order to find the correlation of crash rate from one period to the next a scatterplot matrix was produced. The three variables: incident, fatal_accidents, fatalities are compared between two periods and how the distribution changes for the Government-owned and private-owned airlines.
+
 
 ```markdown
 Syntax highlighted code block
