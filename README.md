@@ -30,6 +30,8 @@ To gain detailed inferences about the data and the relationship among the variab
 
 The scatterplot below shows the incidents which resulted into fatal accidents for both the periods and the distribution of that between government and private owned airlines.
 
+![scatterplot_00_14](/images/incidentsVSfatal_14.png)
+
 
 
 
