@@ -24,6 +24,12 @@ In-order to find the correlation of crash rate from one period to the next a sca
 
 ![ggpairsPlot](/images/ggpairs_plot.png)
 
+Overall, there is no relation between fatalities from one period to another but incidents ae slightly correlated.
+
+To gain detailed inferences about the data and the relationship among the variables, the following visualizations were produced:
+
+The scatterplot below shows the incidents which resulted into fatal accidents for both the periods and the distribution of that between government and private owned airlines.
+
 
 
 
