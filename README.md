@@ -32,6 +32,8 @@ The scatterplot below shows the incidents which resulted into fatal accidents fo
 
 ![scatterplot_00_14](/images/incidentsVSfatal_14.png)
 
+The above plots show that nationalized airlines tend to have more number crashes both in terms of incidents and fatal accidents and during both periods.
+
 
 
 
