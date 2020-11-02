@@ -34,11 +34,11 @@ The scatterplot below shows the incidents which resulted into fatal accidents fo
 
 The above plots show that nationalized airlines tend to have more number crashes both in terms of incidents and fatal accidents and during both periods.
 
-![fatalities_plot](/images/fatalities_comparison.png)
+![fatalities](/images/fatilities_comparison.png)
 
 The above plot shows the distribution of fatalities over the two period. There are some airlines which contradicts our theory Eg: Malaysian Airlines which had a pretty good track record in the first period doomed to the most dangerous airline by the end of the second period whereas Japan Airlines which was apparently the most risky airlines in the first half improved significantly in the second period with 0 fatalities.
 
-
+![incidents](/images/airline_incident.png)
 
 The distribution of incidents over the two time periods concur with our theory to an extent. Most of the airlines which had a good track record in terms of the number of incidents show the same trend in the second time period as well with few exceptions like Aeroflot.
 
